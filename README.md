@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Angelo Ilardi
 
 - 🔭 I’m currently working on DOM manipulation
-- 🌱 I’m currently learning jQuery
+- 🌱 I’m currently learning jQuery/jQueryUI
 - 🤔 I’m looking for help with other JS frameworks
 - 👯 I’m looking to collaborate on all things Front-End Dev
 
